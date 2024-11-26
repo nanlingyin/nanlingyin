@@ -1,16 +1,15 @@
-## Hi there 👋
+# 你好，我是[nanlingyin] 👋
 
-<!--
-**nanlingyin/nanlingyin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 我的GitHub统计
 
-Here are some ideas to get you started:
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=你的用户名&show_icons=true&theme=radical)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 最常用的语言
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=你的用户名&layout=compact&theme=radical)
+
+## 关于我
+
+- 🔭 我正在努力学习python/C/java
+- 🌱 我正在学习html/css/js
+- 📫 联系我：20241008398@stu.shzu.edu.cn
