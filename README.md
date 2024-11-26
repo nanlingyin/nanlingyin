@@ -1,6 +1,15 @@
-# 南凌音的GitHub主页 | LynngNAN's GitHub Profile
+# 你好，我是南凌音 👋
 
-请选择语言 | Please select a language:
+## 我的GitHub统计
 
-- [中文](./README.zh.md)
-- [English](./README.en.md)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nanlingyin&show_icons=true&theme=radical)
+
+## 最常用的语言
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nanlingyin&layout=compact&theme=radical)
+
+## 关于我
+
+- 🔭 我正在努力学习 Python/C/Java
+- 🌱 我正在学习 HTML/CSS/JS
+- 📫 联系我：20241008398@stu.shzu.edu.cn
