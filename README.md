@@ -1,15 +1,16 @@
-# 你好，我是南凌音 👋
+# Hello, I'm LynngNAN 👋
 
-## 我的GitHub统计
+## GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nanlingyin&show_icons=true&theme=radical)
 
-## 最常用的语言
+## Top Languages
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nanlingyin&layout=compact&theme=radical)
 
-## 关于我
+## About Me
 
-- 🔭 我正在努力学习 Python/C/Java
-- 🌱 我正在学习 HTML/CSS/JS
-- 📫 联系我：20241008398@stu.shzu.edu.cn
+- 🔭 I’m currently working on Python/C/Java
+- 🌱 I’m learning HTML/CSS/JS
+- 📫 Reach me at: 20241008398@stu.shzu.edu.cn
+
