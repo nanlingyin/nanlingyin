@@ -1,20 +1,30 @@
-# Hello, I'm LynngNAN 👋
+# 你好，我是南凌音 👋 | Hello, I'm LynngNAN
 
-## GitHub Stats
+🔭 正在学习 Python / C / Java | Currently working on Python / C / Java
+🌱 学习中 HTML / CSS / JS | Learning HTML / CSS / JS
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nanlingyin)](https://github.com/anuraghazra/github-readme-stats)
+---
 
-## Top Languages
+## 📫 联系我 | Contact
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nanlingyin&layout=compact&theme=radical)
+[![Email](https://img.shields.io/badge/Email-20241008398%40stu.shzu.edu.cn-blue?style=flat-square&logo=maildotru)](mailto:20241008398@stu.shzu.edu.cn)
 
-## About Me
+<!-- Add more social links below if needed -->
+<!-- [![Twitter](https://img.shields.io/badge/Twitter-@username-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/username) -->
 
-- 🔭 I’m currently working on Python/C/Java
-- 🌱 I’m learning HTML/CSS/JS
-- 📫 Reach me at: 20241008398@stu.shzu.edu.cn
+---
 
-<details><summary>funny trophy</summary>
+## 📊 GitHub 统计 | GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nanlingyin&show_icons=true&theme=tokyonight&count_private=true&cache_seconds=1800)
+
+## 🗂️ 常用语言 | Top Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nanlingyin&layout=compact&theme=tokyonight&cache_seconds=1800)
+
+---
+
+<details><summary>🏆 GitHub 奖杯 | GitHub Trophies</summary>
 
 <a href="https://github.com/ryo-ma/github-profile-trophy">
  <picture>
