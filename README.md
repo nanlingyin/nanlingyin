@@ -2,11 +2,11 @@
 
 ## GitHub Stats
 
-[![Anurag's GitHub stats](https://tryofstats.vercel.app/api?username=nanlingyin)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://tryofstats.vercel.app/api?username=nanlingyin&show_icons=true&include_all_commits=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Top Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nanlingyin&layout=compact&theme=radical)
+![Top Langs](https://tryofstats.vercel.app/api/top-langs/?username=nanlingyin&layout=compact)
 
 ## About Me
 
