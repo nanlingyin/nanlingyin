@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1200" height="420" viewBox="0 0 1200 420" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">石河子大学南区地图卡片</title>
+  <desc id="desc">A stylized work-location card for Shihezi University South District in Xinjiang.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="420" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#0b1220"/>
+      <stop offset="1" stop-color="#111b2f"/>
+    </linearGradient>
+    <linearGradient id="panel" x1="0" y1="0" x2="0" y2="352" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#13233d"/>
+      <stop offset="1" stop-color="#0f1727"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="300" y1="150" x2="430" y2="280" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#f7b7ff"/>
+      <stop offset="1" stop-color="#8e7cc3"/>
+    </linearGradient>
+    <linearGradient id="road" x1="0" y1="0" x2="1" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#b9c7dd" stop-opacity="0.85"/>
+      <stop offset="1" stop-color="#7f90ad" stop-opacity="0.65"/>
+    </linearGradient>
+    <pattern id="grid" width="44" height="44" patternUnits="userSpaceOnUse">
+      <path d="M44 0H0V44" fill="none" stroke="#ffffff" stroke-opacity="0.06" stroke-width="1"/>
+    </pattern>
+  </defs>
+
+  <rect width="1200" height="420" rx="32" fill="url(#bg)"/>
+  <circle cx="1040" cy="84" r="122" fill="#8e7cc3" fill-opacity="0.13"/>
+  <circle cx="170" cy="352" r="162" fill="#f7b7ff" fill-opacity="0.08"/>
+
+  <rect x="34" y="34" width="730" height="352" rx="28" fill="url(#panel)" stroke="#22324e" stroke-opacity="0.95"/>
+  <rect x="34" y="34" width="730" height="352" rx="28" fill="url(#grid)" opacity="0.85"/>
+
+  <g opacity="0.9">
+    <path d="M94 122C168 98 236 104 312 126C386 147 430 136 492 110C562 81 638 92 706 138" stroke="url(#road)" stroke-width="12" stroke-linecap="round"/>
+    <path d="M98 248C171 214 233 198 296 201C360 204 413 223 484 215C557 207 625 176 702 172" stroke="url(#road)" stroke-width="12" stroke-linecap="round"/>
+    <path d="M254 92V324" stroke="url(#road)" stroke-width="11" stroke-linecap="round"/>
+    <path d="M432 84V310" stroke="url(#road)" stroke-width="11" stroke-linecap="round"/>
+    <path d="M182 146C214 170 238 188 270 206" stroke="url(#road)" stroke-width="8" stroke-linecap="round"/>
+    <path d="M548 118C579 146 604 166 633 194" stroke="url(#road)" stroke-width="8" stroke-linecap="round"/>
+  </g>
+
+  <path d="M158 108C205 80 269 76 336 88C389 97 423 120 460 143C499 167 545 169 595 160C647 150 680 165 697 202C711 233 703 272 678 299C647 332 601 346 548 341C499 336 457 316 411 309C359 302 318 326 262 325C203 323 151 292 128 246C107 202 116 132 158 108Z" fill="#dfe8f5" fill-opacity="0.10" stroke="#dfe8f5" stroke-opacity="0.20" stroke-width="2"/>
+  <path d="M205 132L236 164L221 188L268 204L297 176L333 204L364 171L406 188L441 162L489 183L523 149L563 171L596 143L628 166" stroke="#dfe8f5" stroke-opacity="0.16" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M171 277L224 240L267 249L318 224L365 241L417 211L472 227L529 203L592 214L646 189" stroke="#dfe8f5" stroke-opacity="0.14" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+
+  <circle cx="366" cy="205" r="70" fill="#8e7cc3" fill-opacity="0.12"/>
+  <circle cx="366" cy="205" r="42" fill="#f7b7ff" fill-opacity="0.10"/>
+
+  <path d="M366 150C340 150 319 171 319 197C319 234 366 283 366 283C366 283 413 234 413 197C413 171 392 150 366 150Z" fill="url(#accent)"/>
+  <circle cx="366" cy="197" r="18" fill="#0f1727"/>
+  <circle cx="366" cy="197" r="9" fill="#ffffff"/>
+
+  <rect x="430" y="170" width="214" height="52" rx="26" fill="#f5f7fb" fill-opacity="0.96"/>
+  <path d="M430 196L408 205L430 214Z" fill="#f5f7fb" fill-opacity="0.96"/>
+  <text x="537" y="201" text-anchor="middle" fill="#101827" font-family="Segoe UI, Arial, sans-serif" font-size="22" font-weight="700">石河子大学南区</text>
+
+  <rect x="786" y="34" width="380" height="352" rx="28" fill="url(#panel)" stroke="#22324e" stroke-opacity="0.95"/>
+  <rect x="820" y="66" width="126" height="32" rx="16" fill="#182640" stroke="#2f3e5b" stroke-width="1"/>
+  <text x="883" y="87" text-anchor="middle" fill="#cfd8ea" font-family="Segoe UI, Arial, sans-serif" font-size="13" font-weight="700" letter-spacing="1.6">CURRENT BASE</text>
+
+  <text x="820" y="140" fill="#f5f7fb" font-family="Segoe UI, Arial, sans-serif" font-size="34" font-weight="800">石河子大学南区</text>
+  <text x="820" y="176" fill="#c8d2e3" font-family="Segoe UI, Arial, sans-serif" font-size="18" font-weight="600">Shihezi University South District</text>
+
+  <rect x="820" y="208" width="300" height="64" rx="18" fill="#13233b" stroke="#273854" stroke-width="1"/>
+  <text x="838" y="236" fill="#f1f5fb" font-family="Segoe UI, Arial, sans-serif" font-size="18" font-weight="700">新疆石河子市 · 北四路</text>
+  <text x="838" y="257" fill="#aeb9cc" font-family="Segoe UI, Arial, sans-serif" font-size="13" font-weight="500">Xinjiang, Shihezi City · North 4th Road</text>
+
+  <text x="820" y="306" fill="#aeb9cc" font-family="Segoe UI, Arial, sans-serif" font-size="14" font-weight="600">Coordinates</text>
+  <text x="820" y="332" fill="#f5f7fb" font-family="Segoe UI, Arial, sans-serif" font-size="20" font-weight="700">44.2980, 86.0512</text>
+  <text x="820" y="360" fill="#8ea0c2" font-family="Segoe UI, Arial, sans-serif" font-size="13" font-weight="500">Map-style preview for the current work location</text>
+</svg>
